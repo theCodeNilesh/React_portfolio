@@ -7,9 +7,12 @@ An Portfolio website created  to showcase your skills  using ```ReactJS``` and `
 
 ## Project Screenshots
 
-![Home](https://user-images.githubusercontent.com/61627365/146380307-89949cdd-444d-4ca2-a0f4-4808bfbca179.jpg)
-![Add Contact](https://user-images.githubusercontent.com/61627365/146380299-f2aec512-8c86-4fc2-85cf-05b4d0185966.jpg)
-![View Contact](https://user-images.githubusercontent.com/61627365/146380309-4f9b06c2-c75e-4e36-940a-8a6a22d53979.jpg)
+![Screenshot (376)](https://user-images.githubusercontent.com/61627365/174346781-767fdf20-1b18-442d-80d4-0f0a6b3877f9.png)
+![Screenshot (377)](https://user-images.githubusercontent.com/61627365/174346803-8b6051ad-85b5-4392-a41c-a319498da8a3.png)
+![Screenshot (378)](https://user-images.githubusercontent.com/61627365/174346820-3d0287de-19bf-49b5-a67b-d409cbc79fef.png)
+![Screenshot (381)](https://user-images.githubusercontent.com/61627365/174346837-8b768614-0cad-4a00-8b01-f80fcbed5edf.png)
+![Screenshot (380)](https://user-images.githubusercontent.com/61627365/174346846-7aa908c5-cbb2-4689-81b1-3a3699f93f00.png)
+![Screenshot (379)](https://user-images.githubusercontent.com/61627365/174346853-f6261cd3-8b6d-41c4-aebd-c96243abf7c2.png)
 
 ## Installation
 
