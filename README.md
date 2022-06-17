@@ -58,9 +58,7 @@ Start the server
   npm run start
 ```
 
-```bash
-  put your Firebase Configuration in /utils/config.js file
-```
+
 
 
 ## Reflection
