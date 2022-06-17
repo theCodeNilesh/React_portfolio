@@ -1,10 +1,10 @@
 {
-  "name": "nileshportfolio",
+  "name": "",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Nilesh ! <contact.nilesh.me@gmail.com>",
+  "author": "",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",

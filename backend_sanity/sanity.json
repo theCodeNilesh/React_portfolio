@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "nilesh_portfolio"
+    "name": "your project name"
   },
   "api": {
-    "projectId": "on53eqd9",
+    "projectId": "your  Porject ID",
     "dataset": "production"
   },
   "plugins": [
